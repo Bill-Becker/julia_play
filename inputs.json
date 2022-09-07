@@ -1,0 +1,12 @@
+{
+    "Site": {
+        "latitude": 37.78, 
+        "longitude": -122.45
+    },
+    "ElectricLoad": {
+        "doe_reference_name": "Hospital"
+    },
+    "ElectricTariff": {
+        "urdb_label": "5e1676e95457a3f87673e3b0"
+    } 
+}

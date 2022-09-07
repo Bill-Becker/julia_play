@@ -1,0 +1,4 @@
+[deps]
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+REopt = "d36ad4e8-d74a-4f7a-ace1-eaea049febf6"
+Xpress = "9e70acf3-d6c9-5be6-b5bd-4e2c73e3e054"
